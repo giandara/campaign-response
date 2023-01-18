@@ -1,5 +1,5 @@
 ##set directory
-setwd("C:/Users/giand/OneDrive - Temple University/Desktop/Drexel/STAT 642/Final Project/Proposal")
+setwd("file location path")
 
 ##clear workspace
 rm(list =ls())
